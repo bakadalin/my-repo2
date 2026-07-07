@@ -1,7 +1,4 @@
 This is a Git practice file.
 yejoifjaso
-<<<<<<< HEAD
 sidjojwljf
-=======
 sjlwjroo
->>>>>>> 05f1d7c (Update hello.txt)
